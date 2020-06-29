@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/作业/C语言程序设计/C语言作业/Online/Accepted/main.cpp
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+

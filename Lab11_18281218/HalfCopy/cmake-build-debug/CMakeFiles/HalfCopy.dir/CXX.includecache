@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/作业/C语言程序设计/Lab11_18281218/HalfCopy/main.cpp
+stdio.h
+-
+mm_malloc.h
+-
+

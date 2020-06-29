@@ -1,0 +1,16 @@
+#include "calendar.cpp"
+#include "calculator.cpp"
+#include "equaltion.cpp"
+#include "GCD.cpp"
+#include "leapyear.cpp"
+#include "NewtonLteration.cpp"
+#include "PI.cpp"
+#include "QuadrilateralArea.cpp"
+void calculator();
+void Calendar();
+void equal();
+void GCD();
+void leapyear();
+void NewtonLteration();
+void PI_();
+void QuadrilateralArea();
